@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>叶波的简历</title>
+    <meta name="description" content="我是一个充满活力、对机器人导航技术充满热情的算法工程师。我目前正在寻找机器人研发工程师岗位，希望借此机会为贵司献上我的一点绵薄之力，快招我到碗里来吧！">
+    <meta name="keywords" content="叶波,机器人导航,传感器融合,简历">
+    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="stylesheet" href="dist/css/print.min.css">
+    <link rel="stylesheet" href="dist/css/fontello.min.css">
+</head>
+<body>
+<div class="container">
+    <div class="sidebar">
+        <div class="title">
+            <img src="img/head.png">
+            <h1>叶波的简历</h1>
+            <h2>"We create robots and robots change the world. "</h2>
+        </div>
+        <ul class="side-info">
+            <li class="someRight">
+                <dt><i class="icon-bookmark"></i>Contact. 联系方式</dt>
+                <dd><i class="icon-mail-alt"></i>邮箱: <a href="yebo92@163.com" target="_blank">yebo92@163.com</a></dd>
+                <dd><i class="icon-wechat"></i>微信: ipatient</dd>
+                <dd><i class="icon-qq"></i>QQ: 1078848690</dd>
+            </li>
+            <li class="someRight">
+                <dt><i class="icon-bookmark"></i>Application. 应聘岗位</dt>
+                <dd>机器人研发工程师</dd>
+            </li>
+            <li class="someRight">
+                <dt><i class="icon-bookmark"></i>Basic info. 基本信息</dt>
+                    <dd><span>个人信息:</span> 叶波 / 男 / 24岁</dd>
+                    <dd><span>教育经历:</span> 硕士 / 浙江大学控制科学与工程学系 / 2017年应届生</dd>
+                    <dd><span>英语水平:</span> CET-6</dd>
+                    <dd><span>常用ID:</span> ipatient</dd>
+                    <dd><span>Blog:</span> <a href="http://www.cnblogs.com/yebo92" target="_blank">http://www.cnblogs.com/yebo92</a></dd>
+                    <dd><span>GitHub:</span> <a href="https://github.com/ipatient-zju" target="_blank">https://github.com/ipatient-zju</a></dd>
+            </li>
+            <li class="skill">
+                <dt><i class="icon-bookmark"></i>Tech. 技能点</dt>
+                <dd>
+                        <div class="skill-name">C++</div>
+                        <div class="skill-bar-wrap">
+                            <div class="skill-bar" style="width: 60%"></div>
+                        </div>
+                    </dd>
+                    <dd>
+                        <div class="skill-name">linux</div>
+                        <div class="skill-bar-wrap">
+                            <div class="skill-bar" style="width: 50%"></div>
+                        </div>
+                    </dd>
+                    <dd>
+                        <div class="skill-name">cv</div>
+                        <div class="skill-bar-wrap">
+                            <div class="skill-bar" style="width: 50%"></div>
+                        </div>
+                    </dd>
+                    <dd>
+                        <div class="skill-name">ROS</div>
+                        <div class="skill-bar-wrap">
+                            <div class="skill-bar" style="width: 70%"></div>
+                        </div>
+                    </dd>
+                    <dd>
+                        <div class="skill-name">Python</div>
+                        <div class="skill-bar-wrap">
+                            <div class="skill-bar" style="width: 20%"></div>
+                        </div>
+                    </dd>
+                    <dd>
+                        <div class="skill-name">ML</div>
+                        <div class="skill-bar-wrap">
+                            <div class="skill-bar" style="width: 5%"></div>
+                        </div>
+                    </dd>
+            </li>
+        </ul>
+        <div class="note">
+                <p>我是一个充满活力、对机器人导航技术充满热情的算法工程师。</p>
+                <p>我目前正在寻找机器人研发工程师岗位，希望借此机会为贵司献上我的一点绵薄之力，快招我到碗里来吧！</p>
+            </div>
+    </div>
+    <div class="main">
+        <ul class="main-info">
+            <li>
+                <dt><i class="icon-bookmark"></i>Experience. 项目与工作经验</dt>
+ 		    <h3>alibaba.inc（2016.5 - 2016.9）</h3>
+                    <ul class="exp">
+		    <li>
+                            <div class="circle"></div>
+                            <h4>菜鸟网络智能物流配送机器人项目</h4>
+                            <p>简介：智能配送机器人，是阿里巴巴旗下菜鸟网络针对末端配送实施自动化、智能化的项目。主要为了提升物流配送效率，降低物流配送成本，沉淀物流机器人相关技术，奠定物流机器人运营基础</p>
+                            <p>1.开发激光雷达检测行人与车辆，预测其轨迹的算法，并设计合理的策略保证机器人导航过程中的动态障碍物避障</p>
+			    <p>2.使用guidance的双目视觉，利用深度图信息，开发室内的避障算法</p>
+			    <p>3.开发自动泊车时的激光ICP匹配定位与红外定位算法</p>
+                           
+                        </li>
+                    </ul>
+                <h3>个人项目</h3>
+                <ul class="exp">
+		    <li>
+                            <div class="circle"></div>
+                            <h4>
+                                国际空中机器人大赛（2016.9）
+                                <a href="http://iarc.aopa.org.cn/index.html" target="_blank">http://iarc.aopa.org.cn/</a>
+                            </h4>
+                            <p>简介：空中机器人与地面移动物体（具体而言是地面自主机器人）的交互行为；在一个开敞环境中的导航行为；该环境中无外界导航辅助，GPS或墙壁等静止点与其他竞争空中机器人的博弈行为。</p>
+			    <p>1.实现室内精准定位，开发基于纹理的光流算法，基于地面网格的定位算法以及视觉惯性融合算法</p>
+			    <p>2.给予hokuyo激光雷达开发识别特定障碍物的算法</p>
+			    <p>3.利用比赛场地边缘特征，实现飞行棋的全局定位校正</p>
+                          
+                    </li>
+ 		    <li>
+                            <div class="circle"></div>
+                            <h4>
+                                个人博客（2016.2 - 至今）
+                                <a href="http://www.cnblogs.com/yebo92" target="_blank">http://www.cnblogs.com/yebo92</a>
+                            </h4>
+                            <p>关于机器人导航相关的算法类文章</p>
+                          
+                    </li>
+                    <li>
+                            <div class="circle"></div>
+                            <h4>
+                                微飞行器集群平台（2014.9 - 至今）
+                                <a href="https://github.com/ipatient-zju" target="_blank"></a>
+                            </h4>			    
+                            <ul class="efe">
+                                <li>
+                                    <h5>
+                                        Task1 视觉定位
+                                        <a href="https://github.com/ipateint-zju" target="_blank"></a>
+                                      
+                                    </h5>
+                                   <p>研究飞行器的室内视觉定位，学习视觉里程计的相关算法，以及视觉惯性融合算法</p>
+                                  
+                                </li>
+                                <li>
+                                    <h5>
+                                        Task2 turtlebot导航
+                                        <a href="https://github.com/ipateint-zju" target="_blank"></a>
+                                    </h5>
+                                  <p>利用turtlebot平台学习过一整套机器人导航及路径规划的方案</p>
+                                   
+                                </li>
+                            </ul>
+                    </li>
+                    
+                  
+                 
+              
+              
+               
+                </ul>
+            </li>
+
+            <li>
+               <dt><i class="icon-bookmark"></i>Skill. 技能清单</dt>
+                    <h3>计算机视觉</h3>
+                    <ul class="exp">
+                        <li>
+                            <div class="circle"></div>
+                            <h4>OpenCV</h4>
+                            <p>正在学习OpenCV的各种算法，掌握相机标定，立体几何部分算法</p>
+                            <p>掌握图像处理的基本方法</p>
+                        </li>
+                        <li>
+                            <div class="circle"></div>
+                            <h4>视觉里程计</h4>
+                            <p>熟悉单目视觉里程计算法，如svo</p>
+                            <p>熟悉双目视觉原理，正在学习sgbm方法</p>
+                            <p>初步掌握SLAM后端优化g2o的使用，以及图优化原理</p>
+                        </li>
+                    </ul>
+                    <h3>机器人导航</h3>
+                    <ul class="exp">
+                        <li>
+                            <div class="circle"></div>
+                            <h4>定位</h4>
+                            <p>熟悉利用amcl算法和车载里程计实现移动机器人定位方法</p>
+                            <p>掌握利用光流法实现四旋翼在无外部定位源下的定位方法</p>
+			    <p>掌握利用EKF实现多传感器数据源的融合定位方法</p>
+                        </li>
+                        <li>
+                            <div class="circle"></div>
+                            <h4>避障</h4>
+                            <p>熟悉利用激光雷达识别动态障碍物与并预测其轨迹的方法</p>
+                            <p>掌握在cost_map加入避障层实现多类别不同策略避障的方法</p>          
+                        </li>
+ 			<li>
+                            <div class="circle"></div>
+                            <h4>路径规划</h4>
+                            <p>掌握利用move_base实现移动机器人的全局和局部路径规划</p>          
+                        </li>
+                    </ul>
+ 
+            </li>
+	     <li>
+               <dt><i class="icon-bookmark"></i>others. 其他</dt>
+                    <h3>学术</h3>
+                    <ul class="exp">
+                        <li>                      
+                            <p>浙江大学2014届本科生优秀毕业论文，论文题目《基于四旋翼平台的SLAM研究》</p>
+			    <p>B. Ye, C. Ye and C. Xu*, Visual global positioning solutions for IARC Mission 7,submitted</p>
+                            <p>一种基于定位传感装置的飞行器定位方法，中国，发明专利，通过初步审查</p>
+                        </li>
+                    </ul>
+ 		    <h3>关于个人</h3>
+                    <ul class="exp">
+                        <li>                      
+                            <p>是一个本科太水，起跑线落后于别人，正在努力追赶的人</p>
+			    <p>对足球痴迷，最爱球队：渣团， 最爱教练：穆鸟</p>
+                        </li>
+                    </ul>
+            </li>
+        </ul>
+    </div>
+</div>
+</body>
+</html>
